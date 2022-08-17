@@ -22,3 +22,4 @@ Outperforms TensorFlow and PyTorch when attempting the same problem.
   - L2
 - Batching and vectorization
 - Adam optimizer
+- Dropout
