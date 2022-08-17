@@ -1,0 +1,258 @@
+resolution: 32x32
+hidden_layer shapes: [1500, 1500]
+Activation function: leaky_relu, Loss function: NLL
+best traning loss: 7.97709218241264, best training accuracy: 0.2526813880126183, best validation loss: 20.616792246883698 (2), best validation accuracy: 0.26 (2)
+Itteration: 5
+learning rate: 0.001, regularisation: 0.001, regularisation type: L2, momentum: 0.9, accumulator: 0.99, drop out: 0.1, leaky relu: n/a, hinge delata: n/a, seed: 42
+
+
+
+
+
+
+resolution: 32x32
+hidden_layer shapes: [1500, 1500]
+Activation function: leaky_relu, Loss function: NLL
+best traning loss: 4.211374951778134, best training accuracy: 0.30441640378548895, best validation loss: 4.234974400830951 (94), best validation accuracy: 0.328 (30)
+Itteration: 95
+learning rate: 0.001, regularisation: 0.001, regularisation type: L2, momentum: 0.9, accumulator: 0.99, drop out: 0.1, leaky relu: n/a, hinge delata: n/a, seed: 42
+
+
+
+
+
+
+resolution: 32x32
+hidden_layer shapes: [1500, 1500]
+Activation function: leaky_relu, Loss function: NLL
+best traning loss: 1.6094328192750156, best training accuracy: 0.25173501577287066, best validation loss: 1.6094379129432588 (1), best validation accuracy: 0.2 (0)
+Itteration: 22
+learning rate: 0.001, regularisation: 0.001, regularisation type: L2, momentum: 0.9, accumulator: 0.99, drop out: 0.1, leaky relu: n/a, hinge delata: n/a, seed: 42
+
+
+
+
+
+
+resolution: 32x32
+hidden_layer shapes: [100, 100]
+Activation function: leaky_relu, Loss function: NLL
+best traning loss: 1.6094328188218254, best training accuracy: 0.25173501577287066, best validation loss: 1.6094379129433682 (2), best validation accuracy: 0.2 (0)
+Itteration: 7
+learning rate: 0.001, regularisation: 0.001, regularisation type: L2, momentum: 0.9, accumulator: 0.99, drop out: 0.1, leaky relu: n/a, hinge delata: n/a, seed: 42
+
+
+
+
+
+
+resolution: 32x32
+hidden_layer shapes: [100, 100]
+Activation function: leaky_relu, Loss function: NLL
+best traning loss: 1.6094328183851248, best training accuracy: 0.25173501577287066, best validation loss: 1.6094379129433682 (2), best validation accuracy: 0.2 (0)
+Itteration: 25
+learning rate: 0.001, regularisation: 0.001, regularisation type: L2, momentum: 0.9, accumulator: 0.99, drop out: 0.1, leaky relu: n/a, hinge delata: n/a, seed: 42
+
+
+
+
+
+
+resolution: 32x32
+hidden_layer shapes: [100, 100]
+Activation function: leaky_relu, Loss function: NLL
+best traning loss: 1.813915427984287, best training accuracy: 0.22050473186119873, best validation loss: 1.841809716138318 (20), best validation accuracy: 0.168 (12)
+Itteration: 21
+learning rate: 0.001, regularisation: 0.001, regularisation type: L2, momentum: 0.9, accumulator: 0.99, drop out: 0.1, leaky relu: n/a, hinge delata: n/a, seed: 42
+
+
+
+
+
+
+resolution: 32x32
+hidden_layer shapes: [100, 100]
+Activation function: leaky_relu, Loss function: NLL
+best traning loss: 1.24993837227571, best training accuracy: 0.6031545741324921, best validation loss: 1.3895589167454736 (2790), best validation accuracy: 0.518 (2788)
+Itteration: 2903
+learning rate: 0.001, regularisation: 0.001, regularisation type: L2, momentum: 0.9, accumulator: 0.99, drop out: 0.1, leaky relu: n/a, hinge delata: n/a, seed: 42
+
+
+
+
+
+
+resolution: 32x32
+hidden_layer shapes: [100, 100]
+Activation function: leaky_relu, Loss function: NLL
+best traning loss: 1.7109366456213437, best training accuracy: 0.3580441640378549, best validation loss: 1.7347035372404715 (14393), best validation accuracy: 0.338 (14264)
+Itteration: 14394
+learning rate: 1e-05, regularisation: 0.001, regularisation type: L2, momentum: 0.9, accumulator: 0.99, drop out: 0.1, leaky relu: n/a, hinge delata: n/a, seed: 42
+
+
+
+
+
+
+resolution: 32x32
+hidden_layer shapes: [100, 100]
+Activation function: leaky_relu, Loss function: NLL
+best traning loss: 1.190950837270085, best training accuracy: 0.634384858044164, best validation loss: 1.3892201177256125 (569), best validation accuracy: 0.524 (590)
+Itteration: 610
+learning rate: 1e-05, regularisation: 0.001, regularisation type: L2, momentum: 0.9, accumulator: 0.99, drop out: 0.1, leaky relu: n/a, hinge delata: n/a, seed: 42
+
+
+
+
+
+
+resolution: 32x32
+hidden_layer shapes: [100, 100]
+Activation function: leaky_relu, Loss function: NLL
+best traning loss: 1.6183731552719272, best training accuracy: 0.4003154574132492, best validation loss: 1.60482343248779 (442), best validation accuracy: 0.414 (438)
+Itteration: 443
+learning rate: 1e-05, regularisation: 0.001, regularisation type: L2, momentum: 0.9, accumulator: 0.99, drop out: 0.1, leaky relu: n/a, hinge delata: n/a, seed: 42
+
+
+
+
+
+
+resolution: 32x32
+hidden_layer shapes: [500, 500]
+Activation function: leaky_relu, Loss function: NLL
+best traning loss: 1.7430670298871498, best training accuracy: 0.6914826498422713, best validation loss: 1.9385167140645796 (2813), best validation accuracy: 0.612 (2681)
+Itteration: 2814
+learning rate: 1e-05, regularisation: 0.001, regularisation type: L2, momentum: 0.9, accumulator: 0.99, drop out: 0.1, leaky relu: n/a, hinge delata: n/a, seed: 42
+
+
+
+
+
+
+resolution: 64x64
+hidden_layer shapes: [1200, 1200, 1200]
+Activation function: leaky_relu, Loss function: NLL
+best traning loss: 32.000708303582286, best training accuracy: 0.6113564668769716, best validation loss: 32.04465442400803 (220), best validation accuracy: 0.574 (189)
+Itteration: 221
+learning rate: 1e-05, regularisation: 0.01, regularisation type: L2, momentum: 0.9, accumulator: 0.99, drop out: 0.1, leaky relu: n/a, hinge delata: n/a, seed: 42
+
+
+
+
+
+
+resolution: 64x64
+hidden_layer shapes: [1200, 1200, 1200]
+Activation function: leaky_relu, Loss function: NLL
+best traning loss: 37.06974652212213, best training accuracy: 0.31892744479495266, best validation loss: 37.04014686251208 (27), best validation accuracy: 0.296 (21)
+Itteration: 28
+learning rate: 1e-05, regularisation: 0.01, regularisation type: L2, momentum: 0.9, accumulator: 0.99, drop out: 0.1, leaky relu: n/a, hinge delata: n/a, seed: 42
+
+
+
+
+
+
+resolution: 64x64
+hidden_layer shapes: [1200, 1200, 1200]
+Activation function: leaky_relu, Loss function: NLL
+best traning loss: 9.810036373043324, best training accuracy: 0.3110410094637224, best validation loss: 9.575646569941371 (14), best validation accuracy: 0.356 (8)
+Itteration: 15
+learning rate: 0.003, regularisation: 0.01, regularisation type: L2, momentum: 0.9, accumulator: 0.99, drop out: 0.1, leaky relu: n/a, hinge delata: n/a, seed: 42
+
+
+
+
+
+
+resolution: 64x64
+hidden_layer shapes: [1200, 1200, 1200]
+Activation function: leaky_relu, Loss function: NLL
+best traning loss: 21.9874380252395, best training accuracy: 0.5238095238095238, best validation loss: 21.544217596218257 (24), best validation accuracy: 0.35 (15)
+Itteration: 0
+learning rate: 0.0003, regularisation: 0.01, regularisation type: L2, momentum: 0.9, accumulator: 0.99, drop out: 0.1, leaky relu: n/a, hinge delata: n/a, seed: 42
+
+
+
+
+
+
+resolution: 64x64
+convolutin shape: [(4, 5, 1), (2, 2), (8, 5, 1), (2, 2)]
+hidden_layer shapes: [1200, 1200, 1200]
+Activation function: leaky_relu, Loss function: NLL
+best traning loss: 1.9623197753618808, best training accuracy: 0.9529968454258675, best validation loss: 3.324632785615977 (148), best validation accuracy: 0.538 (148)
+Itteration: 219
+learning rate: 0.0003, regularisation: 0.001, regularisation type: L2, momentum: 0.9, accumulator: 0.99, drop out: 0.1, leaky relu: n/a, hinge delata: n/a, seed: 42
+
+
+
+
+
+
+resolution: 64x64
+convolutin shape: [(4, 5, 1), (2, 2), (8, 3, 1), (2, 2)]
+hidden_layer shapes: [1200, 1200, 1200]
+Activation function: leaky_relu, Loss function: NLL
+best traning loss: 17.856481378430292, best training accuracy: 0.7728706624605678, best validation loss: 18.41372238046537 (558), best validation accuracy: 0.502 (482)
+Itteration: 559
+learning rate: 3e-05, regularisation: 0.01, regularisation type: L2, momentum: 0.9, accumulator: 0.99, drop out: 0.1, leaky relu: n/a, hinge delata: n/a, seed: 42
+
+
+
+
+
+
+resolution: 64x64
+convolutin shape: [(4, 3, 1), (2, 2)]
+hidden_layer shapes: [500, 500, 500]
+Activation function: leaky_relu, Loss function: NLL
+best traning loss: 8.098550888787774, best training accuracy: 0.9274447949526814, best validation loss: 9.066476695156926 (1141), best validation accuracy: 0.544 (794)
+Itteration: 1153
+learning rate: 3e-05, regularisation: 0.01, regularisation type: L2, momentum: 0.9, accumulator: 0.99, drop out: 0.1, leaky relu: n/a, hinge delata: n/a, seed: 42
+
+
+
+
+
+
+resolution: 32x32
+convolutin shape: [(4, 3, 1), (2, 2)]
+hidden_layer shapes: [500, 500, 500]
+Activation function: leaky_relu, Loss function: NLL
+best traning loss: 6.650910769868098, best training accuracy: 0.7946372239747634, best validation loss: 7.192449261049003 (1611), best validation accuracy: 0.566 (1347)
+Itteration: 1615
+learning rate: 3e-05, regularisation: 0.01, regularisation type: L2, momentum: 0.9, accumulator: 0.99, drop out: 0.1, leaky relu: n/a, hinge delata: n/a, seed: 42
+
+
+
+
+
+
+resolution: 32x32
+convolutin shape: [(8, 3, 1), (2, 2)]
+hidden_layer shapes: [500, 500, 500]
+Activation function: leaky_relu, Loss function: NLL
+best traning loss: 4.55296551608923, best training accuracy: 0.7495268138801262, best validation loss: 5.3415528097963385 (2157), best validation accuracy: 0.6 (1821)
+Itteration: 2165
+learning rate: 3e-05, regularisation: 0.01, regularisation type: L2, momentum: 0.9, accumulator: 0.99, drop out: 0.3, leaky relu: n/a, hinge delata: n/a, seed: 42
+
+
+
+
+
+
+resolution: 32x32
+convolutin shape: [(2, 3, 1), (2, 2)]
+hidden_layer shapes: [500, 500, 500]
+Activation function: leaky_relu, Loss function: NLL
+best traning loss: 16.240725791540857, best training accuracy: 0.24321766561514196, best validation loss: 16.198287497661802 (18), best validation accuracy: 0.264 (18)
+Itteration: 19
+learning rate: 3e-05, regularisation: 0.01, regularisation type: L2, momentum: 0.9, accumulator: 0.99, drop out: 0.3, leaky relu: n/a, hinge delata: n/a, seed: 42
+
+
+
+
+
+

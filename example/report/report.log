@@ -1,0 +1,181 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/Arch Linux) (preloaded format=pdflatex 2020.12.6)  9 DEC 2020 05:10
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**report.tex
+(./report.tex
+LaTeX2e <2020-10-01> patch level 2
+L3 programming layer <2020-12-03> xparse <2020-03-03> (/usr/share/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2020/04/10 v1.4m Standard LaTeX document class
+(/usr/share/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2020/04/10 v1.4m Standard LaTeX file (size option)
+)
+\c@part=\count177
+\c@section=\count178
+\c@subsection=\count179
+\c@subsubsection=\count180
+\c@paragraph=\count181
+\c@subparagraph=\count182
+\c@figure=\count183
+\c@table=\count184
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen138
+) (/usr/share/texmf-dist/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count185
+\float@exts=\toks15
+\float@box=\box47
+\@float@everytoks=\toks16
+\@floatcapt=\box48
+) (/usr/share/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2020/09/09 v1.2b Enhanced LaTeX Graphics (DPC,SPQR)
+ (/usr/share/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks17
+) (/usr/share/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2020/08/30 v1.4c Standard LaTeX Graphics (DPC,SPQR)
+ (/usr/share/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+) (/usr/share/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 105.
+ (/usr/share/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen139
+\Gin@req@width=\dimen140
+) (/usr/share/texmf-dist/tex/latex/dirtytalk/dirtytalk.sty
+Package: dirtytalk 2010/11/21 A package making "quoting" easier
+ (/usr/share/texmf-dist/tex/latex/kvoptions/kvoptions.sty
+Package: kvoptions 2020-10-07 v3.14 Key value format for package options (HO)
+ (/usr/share/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
+Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
+) (/usr/share/texmf-dist/tex/generic/kvsetkeys/kvsetkeys.sty
+Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
+)) (/usr/share/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+)
+\c@dirtytalk@qdepth=\count186
+) (/usr/share/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+File: l3backend-pdftex.def 2020-09-24 L3 backend support: PDF output (pdfTeX)
+\l__kernel_color_stack_int=\count187
+\l__pdf_internal_box=\box49
+) (./report.aux)
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+ (/usr/share/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count188
+\scratchdimen=\dimen141
+\scratchbox=\box50
+\nofMPsegments=\count189
+\nofMParguments=\count190
+\everyMPshowfont=\toks18
+\MPscratchCnt=\count191
+\MPscratchDim=\dimen142
+\MPnumerator=\count192
+\makeMPintoPDFobject=\count193
+\everyMPtoPDFconversion=\toks19
+) (/usr/share/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
+ (/usr/share/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
+))
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 12.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 12.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 12.
+ [1
+
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
+<reg.png, id=10, 900.4842pt x 961.191pt>
+File: reg.png Graphic file (type png)
+<use reg.png>
+Package pdftex.def Info: reg.png  used on input line 45.
+(pdftex.def)             Requested size: 345.0pt x 368.26303pt.
+<leaky.png, id=12, 900.4842pt x 961.191pt>
+File: leaky.png Graphic file (type png)
+<use leaky.png>
+Package pdftex.def Info: leaky.png  used on input line 51.
+(pdftex.def)             Requested size: 345.0pt x 368.26303pt.
+ [2 <./reg.png>]
+<mom.png, id=17, 900.4842pt x 961.191pt>
+File: mom.png Graphic file (type png)
+<use mom.png>
+Package pdftex.def Info: mom.png  used on input line 57.
+(pdftex.def)             Requested size: 345.0pt x 368.26303pt.
+ [3 <./leaky.png>]
+<accu.png, id=22, 900.4842pt x 458.1918pt>
+File: accu.png Graphic file (type png)
+<use accu.png>
+Package pdftex.def Info: accu.png  used on input line 63.
+(pdftex.def)             Requested size: 345.0pt x 175.54794pt.
+ [4 <./mom.png>]
+<drop.png, id=27, 900.4842pt x 458.1918pt>
+File: drop.png Graphic file (type png)
+<use drop.png>
+Package pdftex.def Info: drop.png  used on input line 69.
+(pdftex.def)             Requested size: 345.0pt x 175.54794pt.
+
+
+LaTeX Warning: File `train.png' not found on input line 79.
+
+
+./report.tex:79: Package pdftex.def Error: File `train.png' not found: using draft setting.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.79 ...cludegraphics[width=\textwidth]{train.png}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+[5 <./accu.png> <./drop.png>]
+<figure_6.png, id=33, 900.4842pt x 458.1918pt>
+File: figure_6.png Graphic file (type png)
+<use figure_6.png>
+Package pdftex.def Info: figure_6.png  used on input line 86.
+(pdftex.def)             Requested size: 345.0pt x 175.54794pt.
+ [6]
+<figure_5.png, id=38, 900.4842pt x 458.1918pt>
+File: figure_5.png Graphic file (type png)
+<use figure_5.png>
+Package pdftex.def Info: figure_5.png  used on input line 99.
+(pdftex.def)             Requested size: 345.0pt x 175.54794pt.
+ [7 <./Figure_6.png>] [8 <./Figure_5.png>] (./report.aux) ) 
+Here is how much of TeX's memory you used:
+ 1730 strings out of 479383
+ 25582 string characters out of 5875830
+ 302367 words of memory out of 5000000
+ 18836 multiletter control sequences out of 15000+600000
+ 407238 words of font info for 40 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 66i,6n,72p,417b,260s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
+Output written on report.pdf (8 pages, 229534 bytes).
+PDF statistics:
+ 66 PDF objects out of 1000 (max. 8388607)
+ 36 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 500000)
+ 36 words of extra memory for PDF output out of 10000 (max. 10000000)
+
